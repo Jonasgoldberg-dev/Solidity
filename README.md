@@ -1,0 +1,2 @@
+# Solidity
+Templates for Solidity
