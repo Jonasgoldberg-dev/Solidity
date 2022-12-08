@@ -75,3 +75,8 @@ contract SupplyChain {
         }
     }
 }
+
+
+/*To use this contract, the exporter and the importer would first need to agree on the terms of the sale, including the price of the product and the address of the inspector. They would then create a new instance of the contract, specifying their own addresses as the exporter and importer, the inspector's address, and the agreed upon price as the arguments for the constructor function.
+
+Once the contract has been created, the exporter can call the sharePurchaseAgreement() function to share the purchase agreement with
